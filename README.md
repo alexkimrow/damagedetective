@@ -1,9 +1,10 @@
 # Hacklytics 2024
 
 ## Team: Triple AU
+
 ### Members: Aryan, Umair, Alex, Allen
 
-![Logo](logo.png)
+![Logo](/Users/rolex/damagedetective/damagedetective/src/logo.png)
 
 ### Description:
 
