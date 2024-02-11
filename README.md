@@ -4,7 +4,6 @@
 
 ### Members: Aryan, Umair, Alex, Allen
 
-![Logo](/Users/rolex/damagedetective/damagedetective/src/logo.png)
 
 ### Description:
 
