@@ -1,6 +1,6 @@
 # Hacklytics 2024
 
-## Team: Triple AU
+### Team: Triple AU
 
 ### Members: Aryan, Umair, Alex, Allen
 
